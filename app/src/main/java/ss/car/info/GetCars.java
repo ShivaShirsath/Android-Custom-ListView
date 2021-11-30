@@ -1,4 +1,4 @@
-package kj.car.info;
+package ss.car.info;
 
 public class GetCars {
 	// https://private-anon-57910c7319-carsapi1.apiary-mock.com/cars

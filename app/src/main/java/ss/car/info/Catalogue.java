@@ -1,4 +1,4 @@
-package kj.car.info;
+package ss.car.info;
 
 import android.app.Activity;
 import android.os.Bundle;
